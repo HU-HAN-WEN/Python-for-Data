@@ -10,7 +10,7 @@
         - 線性代數、隨機數產生以及傅立葉變換功能。
         - 用於整合由C、C++、Fortran等語言編寫的程式碼的API。
     
-    ![image.png](./images/image.png)
+    ![image.png](/images/image.png)
     
     - 如果之前本地沒有下載過Numpy, Pandas記得點擊 PyCharm 視窗**最下方**的工具列上的 **`終端機`** (或英文版的 `Terminal`) 按鈕，來開啟內建的終端機視窗。
         
@@ -54,7 +54,7 @@
         5. 隨機數組生成:模擬實驗數據、初始化神經網路權重等場景。
         6. 高階構造方法:處理非結構化資料(如檔案、字串)或透過函數產生複雜數組。
         
-        ![image.png](./images/image1.png)
+        ![image.png](/images/image1.png)
         
         矩陣
         
@@ -66,14 +66,14 @@
         | 張量 | ≥3維 | [[[1, 2], [3, 4]]] | 高階數組(如RGB影像) |
         - 矩陣是由行(row)和列(column)排列成的矩形數組。
             
-            ![image.png](./images/image2.png)
+            ![image.png](/images/image2.png)
             
         - 形狀(shape):這個矩陣有2行3列,記作2x3矩陣。
         - 元素(entry):矩陣中的每個數字稱為元素。
         
         特殊矩陣
         
-        ![image.png](./images/image3.png)
+        ![image.png](/images/image3.png)
         
     - 資料類型 (`dtype`)
         
@@ -113,4 +113,4 @@
         | 布林索引 | 透過布林條件篩選滿足條件的元素。支援邏輯運算符&、| |
 - 常用函式
     
-    ![image.png](./images/image4.png)
+    ![image.png](/images/image4.png)
